@@ -10,5 +10,7 @@ Fly balloon is a game made via scratch.
   5. Click on load from your computer.
   6. Now select the .sb3 file from the folder that contains the cloned files.
   7. To play the game, Click on the green flag (🏳️).
- This is how the game starts.
 
+This is how the game starts.
+
+If we have any upgrades then you can submit a pull request.
